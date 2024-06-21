@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="commons-fileupload2-jakarta-2.0.0-M1-test-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../tomcat/apache-tomcat-9.0.78/commons-fileupload2-2.0.0-M1/commons-fileupload2-core-2.0.0-M1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../tomcat/apache-tomcat-9.0.78/commons-fileupload2-2.0.0-M1/commons-fileupload2-core-2.0.0-M1-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../tomcat/apache-tomcat-9.0.78/commons-fileupload2-2.0.0-M1/commons-fileupload2-portlet-2.0.0-M1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../tomcat/apache-tomcat-9.0.78/commons-fileupload2-2.0.0-M1/commons-fileupload2-javax-2.0.0-M1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../tomcat/apache-tomcat-9.0.78/commons-fileupload2-2.0.0-M1/commons-fileupload2-jakarta-2.0.0-M1-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../tomcat/apache-tomcat-9.0.78/commons-fileupload2-2.0.0-M1/commons-fileupload2-jakarta-2.0.0-M1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../tomcat/apache-tomcat-9.0.78/commons-fileupload2-2.0.0-M1/commons-fileupload2-javax-2.0.0-M1-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../tomcat/apache-tomcat-9.0.78/commons-fileupload2-2.0.0-M1/commons-fileupload2-portlet-2.0.0-M1-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../tomcat/apache-tomcat-9.0.78/commons-fileupload2-2.0.0-M1/commons-fileupload2-jakarta-2.0.0-M1-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../tomcat/apache-tomcat-9.0.78/commons-fileupload2-2.0.0-M1/commons-fileupload2-portlet-2.0.0-M1-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../tomcat/apache-tomcat-9.0.78/commons-fileupload2-2.0.0-M1/commons-fileupload2-jakarta-2.0.0-M1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../tomcat/apache-tomcat-9.0.78/commons-fileupload2-2.0.0-M1/commons-fileupload2-core-2.0.0-M1-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../tomcat/apache-tomcat-9.0.78/commons-fileupload2-2.0.0-M1/commons-fileupload2-core-2.0.0-M1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../tomcat/apache-tomcat-9.0.78/commons-fileupload2-2.0.0-M1/commons-fileupload2-portlet-2.0.0-M1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../tomcat/apache-tomcat-9.0.78/commons-fileupload2-2.0.0-M1/commons-fileupload2-javax-2.0.0-M1-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../tomcat/apache-tomcat-9.0.78/commons-fileupload2-2.0.0-M1/commons-fileupload2-javax-2.0.0-M1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
